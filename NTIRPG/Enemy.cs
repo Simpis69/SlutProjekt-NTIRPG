@@ -1,6 +1,6 @@
 public class Enemy
 {
-    private string name = "";
+    private string name = "GigaSlayer";
     private int hp = 0;
     private int dmg = 0;
     public Enemy()

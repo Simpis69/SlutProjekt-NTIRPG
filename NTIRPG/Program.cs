@@ -1,6 +1,8 @@
 ﻿List<Karaktär> karaktärer = []; //lista på karaktärerna som läggs till
 //ska göra en lista för namnen som spelar tilldelar kamraterna
 
+// int[,] grid = [1,1,1,1],[1,0,0,1]];
+
 Console.WriteLine("Välkommen till NTI rpg, du ska få välja hur många kamrater du har i ditt lag");
 Console.WriteLine("välj från 1-4");
 
